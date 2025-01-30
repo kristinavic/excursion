@@ -4,17 +4,19 @@ body {
     font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
+/*    HEADINGS      */
+
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-h2 {
+.header--secondary {
     font-weight: 300;
     font-size: 42px;
     color: white;
-    text-align: center;
 }
 
 p {
